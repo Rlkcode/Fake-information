@@ -9,8 +9,8 @@ apt install python3
 
 apt install git
 
-git clone https://github.com/ekadanuarta/Tool-X.git
+git clone https://github.com/Rlkcode/Fake-information.git
 
-cd Information-Faker
+cd Fake-information
 
 python3 fake-information.py 
